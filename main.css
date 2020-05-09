@@ -1,0 +1,12 @@
+/*
+FETON.ME
+MAIN.CSS
+*/
+
+body {width: 100vw; color: #00000075; font-family:'Karla',san-sans-serif; background:#eee; margin: 2rem;}
+h1 { font-size: 4rem; margin: 0 0 1rem -6px;}
+p {}
+dl {display: inline-block; margin: 2rem 0; }
+dl dd:first-of-type {margin-right: 1rem;}
+dl dd a { font-weight: 700; border-bottom: 1px solid #00000075; color: #00000075; display: block; line-height: 2rem; }
+footer {font-size: .75rem;}
